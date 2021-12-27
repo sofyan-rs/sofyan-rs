@@ -11,7 +11,7 @@ I am student at electronic engineering who like to learn about web dev.
 ### Stats :
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sofyan-rs&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofyan-rs&layout=compact" height=120 />
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sofyan-rs)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **sofyan-rs/sofyan-rs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
