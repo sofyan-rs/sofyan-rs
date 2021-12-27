@@ -1,7 +1,14 @@
-### Hi there 👋, I'm Sofyan
+# Hi there 👋, I'm Sofyan
 
 I am student at electronic engineering who like to learn about web dev.
 
+### Tools:
+<p>
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://gpvc.arturio.dev/sofyan-rs" />
+</p>
+
+### Stats:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sofyan-rs&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofyan-rs&layout=compact" height=120 />
 
