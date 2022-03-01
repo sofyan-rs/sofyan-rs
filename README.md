@@ -4,7 +4,7 @@ I am student at electronic engineering who like to learn about web dev.
 
 ### Tools :
 <p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code?&logo=visual%20studio%20code&logoColor=blue" />
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white" />
     <img src="https://gpvc.arturio.dev/sofyan-rs" />
 </p>
