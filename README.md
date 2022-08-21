@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Sofyan
 
-I am student at electronic engineering who like to learn about electronic, web development, IoT, and other stuff.
+I am student at electronic engineering who like to learn about electronic, web development, IoT, AI, Machine Learning, and other stuff.
 
 ### Tools :
 <p>
