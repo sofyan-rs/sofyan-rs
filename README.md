@@ -1,6 +1,16 @@
 # 💫 About Me:
-Hi there 👋, I'm Sofyan<br><br>- I am graduated electronic engineering student who work as Frontend Developer.<br>- I usually make project using React.js, NextJS, Wordpress, ReactNative.
+Hi there 👋, I'm Sofyan RS<br>
+<br>
+- 🔭 I’m graduated from electronics engineering but currently working as Frontend Developer.<br>
+- ⚡ I'm usually make project using React.js, NextJS, Wordpress.<br>
+- 🌱 I’m currently learning ReactNative.<br>
 
+<!-- - 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sofyan423) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sofyan-rudiana-syamsi) 
