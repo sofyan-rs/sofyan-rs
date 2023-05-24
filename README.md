@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋, I'm Sofyan RS<br>
+## Hi there 👋, I'm Sofyan RS
 <br>
 - 🔭 I’m graduated from electronics engineering but currently working as Frontend Developer.<br>
 - ⚡ I'm usually make project using React.js, NextJS, Wordpress.<br>
