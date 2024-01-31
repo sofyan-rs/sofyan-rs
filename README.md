@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Sofyan
-I’m graduated from Electronics Engineering ⚡, but because my passion now currently working as Frontend & Mobile Developer 👨‍💻. I’m usually make project using React, Next.js, Svelte, and React Native.
+I’m graduated from Electronics Engineering ⚡, but because my passion now currently working as Frontend & Mobile Developer 👨‍💻. I’m usually make project using React, Next.js, Svelte, React Native, and Flutter.
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sofyan-rs&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)<br/>
