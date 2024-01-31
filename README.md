@@ -8,3 +8,6 @@ I’m graduated from Electronics Engineering ⚡, but because my passion now cur
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sofyan-rs&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
