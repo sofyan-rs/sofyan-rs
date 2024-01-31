@@ -1,8 +1,6 @@
 # 💫 About Me:
-## Hi there 👋, I'm Sofyan RS<br>
-- 🔭 I’m graduated from electronics engineering but currently working as Frontend & Mobile Developer.<br>
-- ⚡ I'm usually make project using React.js, NextJS, Wordpress, React Native.<br>
-<!-- 🌱 I’m currently learning ... -->
+<h1 align="center">Hi 👋, I'm Sofyan</h1>
+<h3 align="center">I’m graduated from Electronics Engineering ⚡, but because my passion now currently working as Frontend & Mobile Developer 👨‍💻. I’m usually make project using React, Next.js, Svelte, and React Native.</h3>
 
 # 💻 Tech Stack:
 #### Programming Language:
@@ -21,7 +19,6 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37)
 #### Backend:
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
