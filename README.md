@@ -84,7 +84,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sofyan-rs&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ayu-mirage&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sofyan-rs&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=ayu-mirage&hide_border=true&order=2" height="200" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=sofyan-rs&locale=en&mode=weekly&theme=ayu-mirage&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  ![Sofyan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sofyan_rs&theme=ayu-mirage&hide_border=true&layout=compact)
+  <img src="[https://streak-stats.demolab.com?user=sofyan-rs&locale=en&mode=weekly&theme=ayu-mirage&hide_border=true&border_radius=5&order=3](https://github-readme-stats.vercel.app/api/wakatime?username=sofyan_rs&theme=ayu-mirage&hide_border=true&layout=compact)" alt="wakatime"  />
 </div>
 
 ###
@@ -92,3 +92,5 @@
 <img src="https://raw.githubusercontent.com/sofyan-rs/sofyan-rs/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
