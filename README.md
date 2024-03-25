@@ -19,5 +19,3 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sofyan_rs&theme=ayu-mirage&hide_border=true&layout=compact" alt="wakatime" />
 </div>
-
-###
