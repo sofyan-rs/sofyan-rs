@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m graduated from Electronics Engineering ⚡, but because my passion now currently working as Frontend & Mobile Developer 👨‍💻. Currently working as Frontend Developer & Mobile Developer in Digital Marketing & IT Solution Company. I usually use ReactJS, Next.js, Remix, & Svelte when develop Frontend for website. I have experience as WordPress Developer. I also can develop mobile apps using React Native or Flutter.</p>
+<p align="left">I’m graduated from Electronics Engineering ⚡, but because my passion now currently working as Frontend & Mobile Developer 👨‍💻. Currently working in Digital Marketing & IT Solution Company. I usually use ReactJS, Next.js, Remix, & Svelte when develop Frontend for website. I have experience as WordPress Developer. I also can develop mobile apps using React Native or Flutter.</p>
 
 ###
 
