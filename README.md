@@ -11,8 +11,9 @@
 ### 🚀 About Me
 
 - 📱 Mobile Developer at a digital marketing & IT solutions company
-- ⚛️ Building mobile apps with **React Native**, **Flutter**, **Jetpack Compose**, and **SwiftUI** 
+- ⚛️ Building mobile apps with **React Native**, **Flutter**, **Jetpack Compose**, and **SwiftUI**
 - 🌐 Building web interfaces with **React**, **Next.js**, **Vue**, and **Svelte**
+- ⚙️ Building lightweight APIs and backends with **Hono**, running on **Bun** and **Cloudflare Workers**, backed by **SQLite** and **PostgreSQL**
 - 🎨 I care about the details: smooth animations, intuitive flows, and pixel-polished UI
 - 🌱 Always exploring new tools to ship better products faster
 
@@ -32,10 +33,16 @@
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,svelte,tailwind,html,css&theme=dark" alt="Web stack" />
 </p>
 
+**Backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=bun,nodejs,cloudflare,sqlite,postgres&theme=dark" height="48" alt="Backend stack" />
+</p>
+
 **Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,firebase,figma,vscode,nodejs&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,firebase,figma,vscode&theme=dark" alt="Tools" />
 </p>
 
 ---
