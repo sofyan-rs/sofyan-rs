@@ -11,7 +11,7 @@
 ### 🚀 About Me
 
 - 📱 Mobile Developer at a digital marketing & IT solutions company
-- ⚛️ Building mobile apps with **React Native** and **Flutter**
+- ⚛️ Building mobile apps with **React Native**, **Flutter**, **Jetpack Compose**, and **SwiftUI** 
 - 🌐 Building web interfaces with **React**, **Next.js**, **Vue**, and **Svelte**
 - 🎨 I care about the details: smooth animations, intuitive flows, and pixel-polished UI
 - 🌱 Always exploring new tools to ship better products faster
